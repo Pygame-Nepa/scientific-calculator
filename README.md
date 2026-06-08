@@ -20,5 +20,10 @@ A Scientific calculator that evaluates input with the eval method. This applicat
 * **rnd()**
   Returns a pseudo random number.
 
+  ## Tech Stack:
+  * **HTML**
+  * **CSS**
+  * **JS**
+
   ## Screenshots:
   
