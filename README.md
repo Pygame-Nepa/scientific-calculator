@@ -26,4 +26,6 @@ A Scientific calculator that evaluates input with the eval method. This applicat
   * **JS**
 
   ## Screenshots:
-  
+  <img width="720" height="1126" alt="17809070795127217319892004143073" src="https://github.com/user-attachments/assets/2e2ec950-868a-4179-9f26-afcf50895ce1" />
+
+<img width="720" height="1133" alt="1780907123683980531646327641371" src="https://github.com/user-attachments/assets/a9e3dfd5-77e2-4108-b3aa-4ec4d8ba0498" />
