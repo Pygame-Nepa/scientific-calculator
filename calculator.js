@@ -221,7 +221,7 @@
 
         break;
 
-        case "?": ui.screen.innerHTML = "Help Menu<br><br>*Always close parenthesis.<br><br>pow(<br>Returns the base to the exponent power. Must be written in the form pow(base, exponent)<br><br>acos( & asin(<br> Return the arcCosine and arcTangent of a number in radians. The number must be between -1 and 1 or NaN will be returned.<br><br>ln( & log(<br>ln is base e. log is base 10.<br><br>rnd()<br>Returns a pseudo random number.<br><br>This is a Javascript calculator that evaluates input with the eval method. This application was written by Frank Poth.";
+        case "?": ui.screen.innerHTML = "Help Menu<br><br>*Always close parenthesis.<br><br>pow(<br>Returns the base to the exponent power. Must be written in the form pow(base, exponent)<br><br>acos( & asin(<br> Return the arcCosine and arcTangent of a number in radians. The number must be between -1 and 1 or NaN will be returned.<br><br>ln( & log(<br>ln is base e. log is base 10.<br><br>rnd()<br>Returns a pseudo random number.<br><br>This is a Javascript calculator that evaluates input with the eval method. This application was developed by by Arpan Poudel.";
 
       }
 
